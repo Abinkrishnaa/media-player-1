@@ -1,1 +1,1 @@
-export const server_url="http://localhost:3001"
+export const server_url="https://media-server-g2mh.onrender.com"
